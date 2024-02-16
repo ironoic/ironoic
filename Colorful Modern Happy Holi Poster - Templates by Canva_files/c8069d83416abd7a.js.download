@@ -1,0 +1,8 @@
+(self["webpackChunk_canva_web"] = self["webpackChunk_canva_web"] || []).push([[6721],{
+
+/***/ 442514:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(413926);self._fe4d99ebe0d2d259646a80d250150d47 = self._fe4d99ebe0d2d259646a80d250150d47 || {};(function(__c) {__c.Yv={uDc:1,QXb:2,GXb:3,yLc:4,yEc:5,IKc:6,QQ:7,fQc:8,gQc:9,hQc:10,Cjb:11,gHc:12,fHc:13,hHc:14,nMc:15,oMc:16,CYb:17};__c.Zv={IXb:1,ZYb:2,Ulb:3,Ljb:4,Kjb:5,HZa:6,mlb:7,dZa:8,ykb:9,pZb:10,Bjb:11,rZb:12,FYb:13,hYb:14,OTHER:15};__c.tnb={CRd:1,xRd:2,zRd:3,DRd:4,iXb:5,FRd:6,wRd:7,vRd:8,uRd:9,c_d:10,ERd:11,zEc:12,BRd:13,b_d:14,yRd:15,ARd:16};__c.$v={MWb:1,XWb:2,Sib:3,hXb:4,lXb:5,CXb:6,Djb:7,PXb:8,WXb:9,XXb:10,iYb:11,vkb:12,DYb:13,EYb:14,klb:15,$Yb:16};__c.unb={HKc:1,CVd:2,jMc:3};__c.aw={MOc:1,Qlb:2,MNc:3,Plb:4,nEc:5,C1d:6,aVd:7,RXb:8,gmb:9,Rlb:10,r1d:11,hKc:12,CEc:13,Slb:14,Ikb:15,sjb:16,llb:17};__c.vnb=2;
+}).call(self, self._fe4d99ebe0d2d259646a80d250150d47);}
+
+}])
+//# sourceMappingURL=sourcemaps/c8069d83416abd7a.js.map

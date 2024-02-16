@@ -1,0 +1,8 @@
+(self["webpackChunk_canva_web"] = self["webpackChunk_canva_web"] || []).push([[5214],{
+
+/***/ 373101:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(413926);__web_req__(662164);__web_req__(978769);self._fe4d99ebe0d2d259646a80d250150d47 = self._fe4d99ebe0d2d259646a80d250150d47 || {};(function(__c) {var vrf=__webpack_require__(785893).jsx;var wrf=__webpack_require__(667294).memo;__c.qJa={i2c:function({skeleton:a,Mq:b,G:c,Gc:d,Ch:e,wc:f,ea:g,Vt:h,Lb:k,Ei:l,zQa:m,Fy:n,vB:p,Link:r,Dj:u,ki:v,Ul:w}){({Rj:w}=w(__c.$M));const {SGa:y}=__c.tM({skeleton:a,Mq:b,G:c,Gc:d,Ch:e,wc:f,ea:g,Vt:h,Lb:k,Ei:l,Fy:n,vB:p,Link:r,Dj:u,Rj:w,zU:void 0,ki:v});return{cPc:wrf(({model:A})=>{const {bja:B}=__c.WCc();void(null===m||void 0===m?void 0:m());return vrf(y,Object.assign({},A,{breadcrumbs:A.cn,Dka:void 0,lsa:void 0,bja:B}))})}}};
+}).call(self, self._fe4d99ebe0d2d259646a80d250150d47);}
+
+}])
+//# sourceMappingURL=sourcemaps/64439733ac211170.js.map

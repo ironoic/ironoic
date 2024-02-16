@@ -1,0 +1,36 @@
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('./culture.jpg');
+            background-size: cover;
+            background-position: center;
+            font-family: 'Arial', sans-serif;
+            color: #ffffff;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        section {
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            margin: 20px;
+            border-radius: 10px;
+            color:black;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333333;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+    

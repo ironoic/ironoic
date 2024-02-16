@@ -1,0 +1,17 @@
+.container{
+    background-color: lightblue;
+    padding:15px;
+    display: flex; 
+    /* flex-direction:row-reverse; */
+    flex-wrap:wrap;
+    justify-content: space-evenly,;
+}
+
+.item{
+    background-color: rgb(14, 14, 5);
+    color:rgb(255, 255, 255);
+    padding:10px 15px;
+    margin:10px;  
+height:100px;
+width:100px;
+}

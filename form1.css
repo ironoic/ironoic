@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://images.blocksurvey.io/cdn-cgi/imagedelivery/G6cPOuGZ4Z_bEV13gBxixw/template-category/event-experience.svg/l");
+  background-repeat:no-repeat;
+  Background-attachment:fix;
+  
+  
+  }
+  h1,p{
+    color:rgb(27, 61, 117);
+    align: center;
+    border:solid;
+  }
+  div{
+    border-style:groove;
+    border-width:10px;
+    padding:40px;
+  }
+  
+  input,button{
+    border-radius:50px;
+  }

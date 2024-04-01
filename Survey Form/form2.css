@@ -1,0 +1,97 @@
+body {
+    background-image: url(./form21.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+  }
+  
+  h1, p {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 2rem;
+    margin-bottom: 0;
+  }
+  
+  p {
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+  
+  .established {
+    font-style: italic;
+  }
+  
+  form {
+    background-color: rgb(10, 208, 244);
+    color: black;
+    
+    
+    box-shadow: 0 0 10px rgb(204, 236, 242);
+    width: 60vw;
+    max-width: 700px;
+    min-width: 350px;
+    margin: 0 auto;
+    padding: 15px 15px 25px 15px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  fieldset {
+    border: none;
+  }
+  
+  input,
+  select,
+  textarea {
+    width: 100%;
+    margin: 0.1em 0 1em 0;
+    min-height: 2em;
+    font-size: 0.67em;
+  }
+  
+  input,
+  select {
+    border-radius: 5px;
+  }
+  
+  textarea {
+    min-height: 6.33em;
+    resize: vertical;
+  }
+  
+  input[type="submit"] {
+    background-color:rgb(37, 205, 113);
+    border-color: rgb(37, 205, 113);
+    color: black;
+    font-size: 1.33rem;
+    min-height: 2.5em;
+  }
+  
+  input[type="submit"]:hover {
+    outline: none !important;
+    border: 2px solid rgb(37, 205, 113);
+    box-shadow: 0 0 10px rgb(0, 127, 127);
+    cursor: pointer;
+  }
+  
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="number"]:focus,
+  select:focus {
+    outline: none !important;
+    box-shadow: 0 0 7px rgb(204, 236, 242);
+  }
+  
+  .inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    min-height: unset;
+    vertical-align: middle;
+  }

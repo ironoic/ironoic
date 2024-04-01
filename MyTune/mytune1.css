@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url("./tune1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/* NAVBAR CSS Code for designing */
+nav {
+	background-color: #333;
+	padding: 11px;
+    justify-content: space-between;
+}
+
+nav ul {
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 50px;
+	   
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+	transition: transform 0.3s ease;
+}
+
+nav ul li a:hover {
+	color: #ccc;
+	transform: translateY(-10px) scale(1.2);
+}
+
+/* NAVBAR EDITING ENDS HERE */
+.main {
+	width: 80%;
+	margin: 0 auto;
+	padding: 30px;
+	text-align: center;
+}
+
+.heading,.heading2,.content{
+    color:#fff;
+    
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+	
+}
+.heading2{
+    font-size:20px;
+    font-weight: bold;
+
+}
+.content{
+    font-size: 20px;
+}
+p{
+    line-height: 30px;
+}

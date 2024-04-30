@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Quiz-Maniac</title>
+   <link rel="stylesheet" href="quiz.css">
+</head>
+
+<body>
+<!-- adding logo , asking user name in container -->
+   <div class="container" id="container">
+      <img src="./logo.jpg" alt="Testbook logo">
+      <h2>Hello USERS</h2>
+      <h4>Enter your Name to continue the Quiz</h4>
+      <form onsubmit="getName(event)">
+      <input  id="username" type="text" value="" placeholder="Enter your name" required>
+      <button class="input-button" type="submit">Enter</button>
+   </form>
+   <div id="welcome-note"></div>
+      <p>You'll have 10 seconds to answer each question</p>
+      <hr>
+      <h2>Select Category</h2>
+      <!-- putting onclick event on each category of quiz -->
+      <div>
+         <button class="category-button" onclick="startQuiz(event)" value="Pipes and Cisterns">Pipes And
+            Cisterns</button>
+         <button class="category-button" onclick="startQuiz(event)" value="Probability">Probability</button>
+         <button class="category-button" onclick="startQuiz(event)" value="Problem on Ages">Problem on Ages</button>
+         <button class="category-button" onclick="startQuiz(event)" value="Profit and loss">Profit And Loss</button>
+      </div>
+
+
+   </div>
+
+   <script src="quiz.js">
+
+   </script>
+</body>
+
+</html>
